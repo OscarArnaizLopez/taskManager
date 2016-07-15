@@ -1,0 +1,7 @@
+<Page loaded="loaded" navigatingTo="navigatingTo">
+    <StackLayout orientation="vertical">
+        <TextField hint="Task" text="{{ newTask }}" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
+        <TextField hint="Date YYYY-MM-DD" text="{{ due_date }}" keyboardType="datetime" autocorrect="false" autocapitalizationType="none" />
+        <Button text="Add" height="auto" tap="add" />
+    </StackLayout>
+</Page>

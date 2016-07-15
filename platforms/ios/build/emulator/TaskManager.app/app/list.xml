@@ -1,0 +1,17 @@
+<Page loaded="loaded">
+<ActionBar title="Task manager">
+    <ActionItem tap="Add"
+      ios.systemIcon="4" ios.position="right" 
+      android.systemIcon="ic_menu_add" android.position="actionBar" tap="addTask"/>
+</ActionBar>
+    <GridLayout>
+        <ListView items="{{ items }}" colSpan="2">
+            <ListView.itemTemplate>
+            <GridLayout columns="2*, *">
+                <Label text="{{ name }}" id="taskName" horizontalAlignment="left" verticalAlignment="center"  col="0" />
+                <Label text="{{ humanisedDate }}" id="taskDate" horizontalAlignment="right" verticalAlignment="center" col="1" />
+            </GridLayout>
+            </ListView.itemTemplate>
+        </ListView>
+    </GridLayout>
+</Page>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/oscar/Development/nativeScript/TaskManager/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/add_list.png",
+        "source": "/Users/oscar/Development/nativeScript/TaskManager/platforms/android/src/main/res/drawable-ldpi/add_list.png"
+    },
+    {
+        "merged": "/Users/oscar/Development/nativeScript/TaskManager/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/icon.png",
+        "source": "/Users/oscar/Development/nativeScript/TaskManager/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    }
+]

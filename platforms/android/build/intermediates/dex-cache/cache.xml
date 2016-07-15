@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/oscar/Development/nativeScript/TaskManager/platforms/android/build/intermediates/exploded-aar/TaskManager/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8c8ebc987f6538a65f5cfd308d5984746999d79">
+        <dex dex="/Users/oscar/Development/nativeScript/TaskManager/platforms/android/build/intermediates/pre-dexed/F0/debug/TaskManager-runtime-unspecified_a4426bb0a801de40464c3e5b1b94f82fc274a72e.jar" />
+    </item>
+    <item
+        jar="/Users/oscar/Development/nativeScript/TaskManager/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/oscar/Development/nativeScript/TaskManager/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-23.1.0_598100146db24b0059d455d1cdfbe844510117a8.jar" />
+    </item>
+    <item
+        jar="/Users/oscar/Development/nativeScript/TaskManager/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/oscar/Development/nativeScript/TaskManager/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-23.1.0_4af555fb986aa69400b1c207361eac7f5ec77900.jar" />
+    </item>
+    <item
+        jar="/Users/oscar/Development/nativeScript/TaskManager/platforms/android/build/intermediates/exploded-aar/TaskManager/binding-generator/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cd7dd3d8b3faa7a457003b040d45b12c7e268dc6">
+        <dex dex="/Users/oscar/Development/nativeScript/TaskManager/platforms/android/build/intermediates/pre-dexed/F0/debug/TaskManager-binding-generator-unspecified_5bac7115f6512a8a4e6f518b9fc87ca35e338100.jar" />
+    </item>
+    <item
+        jar="/Users/oscar/Development/nativeScript/TaskManager/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/oscar/Development/nativeScript/TaskManager/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-23.1.0_78dd5bb449f16734f2189de027126d62be67d842.jar" />
+    </item>
+    <item
+        jar="/Users/oscar/Development/nativeScript/TaskManager/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2e5203427159d06a7104c1a113eee1c22e0ceb9">
+        <dex dex="/Users/oscar/Development/nativeScript/TaskManager/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_55c1e8379024696ed55429e614453ae4b92ab8d6.jar" />
+    </item>
+    <item
+        jar="/Volumes/External/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/oscar/Development/nativeScript/TaskManager/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-23.1.0_3ef7e5887633b8284b813d787be1d587a1c05403.jar" />
+    </item>
+
+</items>
